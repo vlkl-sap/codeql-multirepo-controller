@@ -1,0 +1,4 @@
+{
+  "codeQL.canary": true,
+  "codeQL.variantAnalysis.controllerRepo": "vlkl-sap/codeql-multirepo-controller"
+}
