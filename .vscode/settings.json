@@ -1,4 +1,6 @@
 {
   "codeQL.canary": true,
-  "codeQL.variantAnalysis.controllerRepo": "vlkl-sap/codeql-multirepo-controller"
+  "codeQL.variantAnalysis.controllerRepo": "vlkl-sap/codeql-multirepo-controller",
+  "codeQL.variantAnalysis.repositoryListsPath": "/sapmnt/home/D068031/codeql-multirepo-controller/repolists.json",
+  "codeQL.runningQueries.autoSave": true
 }
